@@ -1,7 +1,7 @@
 **Object:** Dumplings
 
 *Attributes*
-price: 5.98
+price: 5.98 
 hot_dish: true
 time_ordered: 7:37 PM 10/17/2019
 ingredients: ['dumpling pastry', 'cabbage', 'onion', 'pork']
