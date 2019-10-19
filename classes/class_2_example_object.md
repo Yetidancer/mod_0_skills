@@ -18,6 +18,6 @@ sit: 125
 
 feed: false
 
-rude_waiter: 20.00
+stiff_waiter: 20.00
 
-too_hot: ['flannel', 'pants']
+remove_clothing: ['flannel', 'pants']

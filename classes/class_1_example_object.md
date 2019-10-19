@@ -14,10 +14,10 @@ ingredients: ['dumpling pastry', 'cabbage', 'onion', 'pork']
 
 *Methods*
 
-half_off: 2.96
+use_coupon: 2.96
 
-wait_time: 0:11
+calculate_wait_time: 0:11
 
 cook: ['cooked dumpling pastry', 'cooked cabbage', 'cooked onion', 'cooked pork']
 
-allergy: ['dumpling pastry', 'cabbage', 'onion']
+identify_allergy: ['dumpling pastry', 'cabbage', 'onion']
