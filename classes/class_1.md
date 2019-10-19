@@ -1,6 +1,7 @@
 **Class:** Appetizer
 
 
+
 *Attributes*
 
 price (float)
@@ -10,6 +11,7 @@ hot_dish (boolean)
 time_ordered (datetime)
 
 ingredients (array)
+
 
 
 *Methods*
