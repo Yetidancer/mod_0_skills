@@ -18,6 +18,6 @@ sit (modify height attribute)
 
 feed (modify hungry attribute)
 
-rude_waiter (modify tip)
+stiff_waiter (modify tip)
 
-too_hot (remove object from array)
+remove_clothing (remove object from array)
